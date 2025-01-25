@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Advanced AI Techniques**  
 
-- 💬 Ask me about **Java, AI/ML Frameworks, and Full-stack Development**  
+- 💬 Ask me about **Java, AI/ML Frameworks and Data analysis**  
 
 - 📫 How to reach me **malavikaa267@gmail.com**  
 
