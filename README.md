@@ -60,9 +60,10 @@
 #### AI/ML  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,keras" />
+   <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
   </a>
 </p>
+
 
 #### Tools  
 <p align="left">
